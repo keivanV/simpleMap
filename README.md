@@ -7,7 +7,7 @@
   <tr>
     <td><img src="./assets/images/photo_2025-08-13_12-42-09.jpg" width="150"/></td>
     <td><img src="./assets/images/photo_2025-08-13_12-42-31.jpg" width="150"/></td>
-    <td><img src="./assets/images/photo_2025-08-13_12-42-34.jpg" width="150"/></td>
+    <td><img src="./assets/images/img2.jpg" width="150"/></td>
     <td><img src="./assets/images/photo_2025-08-13_12-42-37.jpg" width="150"/></td>
   </tr>
   <tr>
